@@ -1,0 +1,116 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9">
+  <diagram name="Trang-1" id="-M_bsbVaFoXRwhrimkG6">
+    <mxGraphModel dx="4780" dy="2793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uC6NLwm2nUMS7Do129K8-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;exitX=0.075;exitY=0.222;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uC6NLwm2nUMS7Do129K8-4" target="uC6NLwm2nUMS7Do129K8-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uC6NLwm2nUMS7Do129K8-48" value="Show public job listings and content" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uC6NLwm2nUMS7Do129K8-47">
+          <mxGeometry x="-0.1354" y="1" relative="1" as="geometry">
+            <mxPoint x="-2" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uC6NLwm2nUMS7Do129K8-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.926;exitY=0.22;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uC6NLwm2nUMS7Do129K8-4" target="uC6NLwm2nUMS7Do129K8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uC6NLwm2nUMS7Do129K8-56" value="Confirm login, show job matches,&amp;nbsp;&lt;div&gt;application status, messages&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uC6NLwm2nUMS7Do129K8-55">
+          <mxGeometry x="-0.1346" y="15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uC6NLwm2nUMS7Do129K8-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitX=0.978;exitY=0.633;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uC6NLwm2nUMS7Do129K8-4" target="uC6NLwm2nUMS7Do129K8-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uC6NLwm2nUMS7Do129K8-60" value="Confirm actions, show applications,&amp;nbsp;&lt;div&gt;messages from job seekers&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uC6NLwm2nUMS7Do129K8-59">
+          <mxGeometry x="0.1317" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uC6NLwm2nUMS7Do129K8-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.009;exitY=0.622;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uC6NLwm2nUMS7Do129K8-4" target="uC6NLwm2nUMS7Do129K8-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="737" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uC6NLwm2nUMS7Do129K8-64" value="Return moderation queues, user statistics" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uC6NLwm2nUMS7Do129K8-63">
+          <mxGeometry x="0.1884" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uC6NLwm2nUMS7Do129K8-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.814;exitY=0.889;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;" edge="1" parent="1" source="uC6NLwm2nUMS7Do129K8-4" target="uC6NLwm2nUMS7Do129K8-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uC6NLwm2nUMS7Do129K8-70" value="Return system logs,&amp;nbsp;&lt;div&gt;security alerts,&amp;nbsp;&lt;/div&gt;&lt;div&gt;sensitive reports&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uC6NLwm2nUMS7Do129K8-68">
+          <mxGeometry x="-0.2359" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uC6NLwm2nUMS7Do129K8-4" value="Mini Job Social Network System" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="735" y="420" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="uC6NLwm2nUMS7Do129K8-5" value="&lt;span data-end=&quot;528&quot; data-start=&quot;514&quot;&gt;Job Seeker&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uC6NLwm2nUMS7Do129K8-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="uC6NLwm2nUMS7Do129K8-6" target="uC6NLwm2nUMS7Do129K8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uC6NLwm2nUMS7Do129K8-58" value="Register/Login, create/edit job posts,&amp;nbsp;&lt;div&gt;view applicants, send messages&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uC6NLwm2nUMS7Do129K8-57">
+          <mxGeometry x="-0.0115" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uC6NLwm2nUMS7Do129K8-6" value="Employer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uC6NLwm2nUMS7Do129K8-7" value="Administrator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="790" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uC6NLwm2nUMS7Do129K8-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0.363;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uC6NLwm2nUMS7Do129K8-8" target="uC6NLwm2nUMS7Do129K8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uC6NLwm2nUMS7Do129K8-46" value="Request to view public jobs and posts" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uC6NLwm2nUMS7Do129K8-45">
+          <mxGeometry x="-0.1093" y="-1" relative="1" as="geometry">
+            <mxPoint x="-26" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uC6NLwm2nUMS7Do129K8-8" value="Guest" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="340" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uC6NLwm2nUMS7Do129K8-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="uC6NLwm2nUMS7Do129K8-9" target="uC6NLwm2nUMS7Do129K8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uC6NLwm2nUMS7Do129K8-62" value="Moderate job posts and content,&amp;nbsp;&lt;div&gt;manage standard users&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uC6NLwm2nUMS7Do129K8-61">
+          <mxGeometry x="0.1344" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uC6NLwm2nUMS7Do129K8-9" value="Manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="340" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uC6NLwm2nUMS7Do129K8-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.621;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="uC6NLwm2nUMS7Do129K8-5" target="uC6NLwm2nUMS7Do129K8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uC6NLwm2nUMS7Do129K8-54" value="Register/Login, manage profile, search jobs,&amp;nbsp;&lt;div&gt;apply to jobs, send messages&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uC6NLwm2nUMS7Do129K8-53">
+          <mxGeometry x="-0.1415" y="2" relative="1" as="geometry">
+            <mxPoint x="-18" y="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uC6NLwm2nUMS7Do129K8-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.146;entryY=0.875;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="uC6NLwm2nUMS7Do129K8-7" target="uC6NLwm2nUMS7Do129K8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uC6NLwm2nUMS7Do129K8-69" value="Manage permissions,&amp;nbsp;&lt;div&gt;access sensitive data,&amp;nbsp;&lt;/div&gt;&lt;div&gt;perform backups,&amp;nbsp;&lt;/div&gt;&lt;div&gt;system config&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uC6NLwm2nUMS7Do129K8-66">
+          <mxGeometry x="0.2" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
