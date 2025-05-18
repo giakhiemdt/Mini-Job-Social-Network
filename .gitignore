@@ -2,3 +2,7 @@ docs/diagrams/.$ContextDiagram.drawio.bkp
 docs/diagrams/.$ERDiagram.drawio.dtmp
 docs/diagrams/.$UseCaseDiagram.drawio.bkp
 docs/diagrams/.$ERDiagram.drawio.bkp
+
+
+zfrontend/node_modules
+frontend/.vscode
