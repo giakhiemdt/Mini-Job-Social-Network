@@ -1,19 +1,11 @@
+import { RouterProvider } from "react-router-dom"
+import router from "./routes/Routes"
 
 function App() {
-
-
-  return (
+  return(
     <>
-      <div className="avatar">
-  <div className="w-24 rounded-xl">
-    <img src="https://img.daisyui.com/images/profile/demo/yellingwoman@192.webp" />
-  </div>
-</div>
-<div className="avatar">
-  <div className="w-24 rounded-full">
-    <img src="https://img.daisyui.com/images/profile/demo/yellingcat@192.webp" />
-  </div>
-</div>
+      <RouterProvider router={router}/>
+    
     </>
   )
 }
